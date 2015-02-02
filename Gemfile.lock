@@ -1,0 +1,20 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    gcal4ruby (0.5.5)
+      gdata4ruby (>= 0.1.5)
+    gdata4ruby (0.1.5)
+    hipchat-api (1.0.6)
+      httparty
+    httparty (0.13.3)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.2)
+    multi_xml (0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gcal4ruby
+  hipchat-api
